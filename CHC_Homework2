@@ -1,0 +1,5 @@
+ هي أهم المعلومات المطلوبة في مرحلة الفحص مع مثال على كل منها باستخدام اداة nmap ؟
+ 
+ 1- ports number : nmap -ST ip
+ 2- services provided : nmap -sx -sv ip
+ 3-up/down : nmap -sp 
